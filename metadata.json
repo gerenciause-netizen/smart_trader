@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Trader - IBKR Options Hub",
+  "description": "Professional-grade trading journal and AI-powered audit room for Interactive Brokers traders, now featuring advanced Gemini 3 reasoning for strategy validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
